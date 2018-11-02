@@ -4,7 +4,7 @@ For this repositiory the dataset used is obatained form UCI
 
 the data description for this is as below.
 
-  ^Data Set Information:
+  **Data Set Information:**
 
   Type of dependent variables (7 Types of Steel Plates Faults): 
 1. Pastry 
